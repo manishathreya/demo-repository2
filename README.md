@@ -10,3 +10,6 @@ git push origin master or "set upstream " using git push -u origin master and fr
 ->git branch to see all branches
 ->git checkout -b (name) //for new branch
 ->git checkout (name) //for interchanging branch
+
+
+->when working with professional projects you have to clone->push->make pull request
