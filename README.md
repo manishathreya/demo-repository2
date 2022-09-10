@@ -15,6 +15,7 @@ git push origin master or "set upstream " using git push -u origin master and fr
 ->git reset HEAD~1 //will undo and uncommit the changes
 ->git log //log of commit
 ->git reset (commit address) //will unstage/ unadd  and uncommit these changes made after this commit.
+->git reset --hard (commid address) // will remove these commits.
 
 
 ->when working with professional projects you have to clone->push->make pull request
