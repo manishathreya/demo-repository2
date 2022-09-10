@@ -11,6 +11,8 @@ git push origin master or "set upstream " using git push -u origin master and fr
 ->git checkout -b (name) //for new branch
 ->git checkout (name) //for interchanging branch
 ->git branch -d (name)
+->git reset (name) //to unadd file
+->git reset HEAD~1 //will undo and uncommit the changes
 
 
 ->when working with professional projects you have to clone->push->make pull request
