@@ -13,6 +13,7 @@ git push origin master or "set upstream " using git push -u origin master and fr
 ->git branch -d (name)
 ->git reset (name) //to unadd file
 ->git reset HEAD~1 //will undo and uncommit the changes
+->git log //log of commit
 
 
 ->when working with professional projects you have to clone->push->make pull request
