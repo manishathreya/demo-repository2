@@ -9,14 +9,9 @@ git remote add origin (ssh)
 git push origin master or "set upstream " using git push -u origin master and from next time you can just use git push
 ->git branch to see all branches
 
+->git checkout -b (name) //for new branch
+->git checkout (name) //for interchanging branch
 
 
+->when working with professional projects you have to clone->push->make pull request
 
-
-
-
-
-
-
-This is a test for branching
-This is an extra line
